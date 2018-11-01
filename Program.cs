@@ -28,6 +28,8 @@ namespace hello_c_
 
             AnotherClass anotherClass = new AnotherClass("another name");
             Console.WriteLine(anotherClass.GetName());   
+
+            Console.ReadLine();
         }
     }
 }
