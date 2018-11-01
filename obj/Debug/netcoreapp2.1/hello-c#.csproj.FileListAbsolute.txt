@@ -1,0 +1,11 @@
+C:\Users\Hitalo Emanoel\Documents\dev\hello-c#\bin\Debug\netcoreapp2.1\hello-c#.deps.json
+C:\Users\Hitalo Emanoel\Documents\dev\hello-c#\bin\Debug\netcoreapp2.1\hello-c#.runtimeconfig.json
+C:\Users\Hitalo Emanoel\Documents\dev\hello-c#\bin\Debug\netcoreapp2.1\hello-c#.runtimeconfig.dev.json
+C:\Users\Hitalo Emanoel\Documents\dev\hello-c#\bin\Debug\netcoreapp2.1\hello-c#.dll
+C:\Users\Hitalo Emanoel\Documents\dev\hello-c#\bin\Debug\netcoreapp2.1\hello-c#.pdb
+C:\Users\Hitalo Emanoel\Documents\dev\hello-c#\obj\Debug\netcoreapp2.1\hello-c#.csprojAssemblyReference.cache
+C:\Users\Hitalo Emanoel\Documents\dev\hello-c#\obj\Debug\netcoreapp2.1\hello-c#.csproj.CoreCompileInputs.cache
+C:\Users\Hitalo Emanoel\Documents\dev\hello-c#\obj\Debug\netcoreapp2.1\hello-c#.AssemblyInfoInputs.cache
+C:\Users\Hitalo Emanoel\Documents\dev\hello-c#\obj\Debug\netcoreapp2.1\hello-c#.AssemblyInfo.cs
+C:\Users\Hitalo Emanoel\Documents\dev\hello-c#\obj\Debug\netcoreapp2.1\hello-c#.dll
+C:\Users\Hitalo Emanoel\Documents\dev\hello-c#\obj\Debug\netcoreapp2.1\hello-c#.pdb
